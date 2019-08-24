@@ -1,2 +1,2 @@
 # Easy-Travel
-Easy travel is an tranporation application for both web and mobile.
+Easy travel is an transportion application for both web and mobile.
